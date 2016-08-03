@@ -9,7 +9,7 @@ Used out of context, the code may result in an unusable configuration and no war
 
 The code will look like the following:
 ```
-C<service android:name=".services.LocationService">
+<service android:name=".services.LocationService">
 
   <intent-filter>
 
