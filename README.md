@@ -20,10 +20,15 @@ The code will look like the following:
   </intent-filter>
 
 </service>
-
-
-
 ```
+
+###Software and Hardware list
+| Chapter | Software required | Hardware specifications | OS required |
+| ------- | ----------------- | ----------------------- | ----------- |
+| Chapter 1 to 7 | No Code to Test |
+| 8 | Xposed Framework (v2.61), Latest Android Studio, Rooted Device, Frida | RAM 4 GB | Windows/Linux/Mac |
+| 9 | Android Studio, Apache Server(XAMPP/WAMP) | RAM 4 GB | Windows/Linux/Mac |
+| 10 | No Code to Test |
 
 
 
