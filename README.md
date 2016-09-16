@@ -22,7 +22,7 @@ The code will look like the following:
 </service>
 ```
 
-###Software and Hardware list
+##Software and Hardware list
 | Chapter | Software required | Hardware specifications | OS required |
 | ------- | ----------------- | ----------------------- | ----------- |
 | Chapter 1 to 7 | No Code to Test |
@@ -32,5 +32,7 @@ The code will look like the following:
 
 
 
+##Related Hacking Android Products:
 
+* [Android Security Cookbook](https://www.packtpub.com/application-development/android-security-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781782167167)
 
