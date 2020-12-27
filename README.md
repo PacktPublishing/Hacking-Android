@@ -1,13 +1,13 @@
 ## $5 Tech Unlocked 2021!
 [Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/hacking-android/9781785883149)
 -----
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1785883143).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1785883143). Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign runs from __December 15th 2020__ to __January 13th 2021.__*
 
-#Hacking Android
+# Hacking Android
 
-This is the code repository for [Hacking Android](https://www.packtpub.com/networking-and-servers/hacking-android?utm_source=github&utm_medium=repository&utm_campaign=9781785883149) , published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Hacking Android](https://www.packtpub.com/networking-and-servers/hacking-android?utm_source=github&utm_medium=repository&utm_campaign=9781785883149), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
-##Instructions and Navigation
+## Instructions and Navigation
 
 The code included with this book is meant for use as an aid in performing the exercises and should not be used as a replacement for the book itself.
 Used out of context, the code may result in an unusable configuration and no warranty is given.
@@ -37,7 +37,7 @@ The code will look like the following:
 
 
 
-##Related Hacking Android Products:
+## Related Hacking Android Products:
 
 * [Android Security Cookbook](https://www.packtpub.com/application-development/android-security-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781782167167)
 
